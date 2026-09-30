@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# macOS
+.DS_Store
+
+# Environment / API keys
+.env
+.env.*
+*.key
+
+# VetPDF generated logs
+vetpdf_*.jsonl
+
+# IDE/editor
+.vscode/
+.idea/
